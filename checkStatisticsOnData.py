@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file
-csv_path = r'C:\Users\USER\git\coffeeML\final_type_of_coffee.csv'
+csv_path = r'C:\Users\USER\git\Coffee-Recommendation-System-606\Yolov8Classification\union_final_type_of_coffee.csv'
 df = pd.read_csv(csv_path)
 
 # Define the columns corresponding to coffee types
